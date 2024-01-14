@@ -1,0 +1,4 @@
+selenium==4.16.0
+beautifulsoup4==4.12.2
+loguru==0.7.0
+pandas==2.0.3
